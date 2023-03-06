@@ -1,0 +1,18 @@
+﻿Jia C (12/12/2022, 8:09:25 PM): Hello Raven. An agent will be with you shortly. 
+Jia C (12/12/2022, 8:09:53 PM): Hi Raven, thanks for using Coursera’s chat support! I will be the one who will answer all of your concerns today! 
+Raven (12/12/2022, 8:10:22 PM): Hi there, I appreciate your help in advance\ 
+Raven (12/12/2022, 8:10:41 PM): I hope my initial description of the issue made sense 
+Jia C (12/12/2022, 8:11:14 PM): I understand that you are unable to complete the peer assignment due to an error. I do apologize for the inconvenience this has caused you. I will be glad to help you. 
+Raven (12/12/2022, 8:11:31 PM): Great 
+Jia C (12/12/2022, 8:11:39 PM): May I know the course name, please? 
+Raven (12/12/2022, 8:12:09 PM): Introduction to Cloud Computing 
+Jia C (12/12/2022, 8:13:10 PM): Thank you for that information, Raven. 
+Raven (12/12/2022, 8:13:36 PM): No problem 
+Jia C (12/12/2022, 8:13:48 PM): Have you tried clearing your cache and cookies? Here are the instructions: https://learner.coursera.help/hc/articles/115002012606 
+Please make sure you’re using the most recent version of one of our supported web browsers:
+•	Google Chrome (recommended)
+•	Microsoft Edge
+•	Firefox
+•	Safari
+You can use this link to find the latest version of your browser: http://browsehappy.com/ 
+Jia C (12/12/2022, 8:14:42 PM): If those steps don’t resolve the issue, please let me know. If possible, please attach a screenshot (http://www.take-a-screenshot.org/) of the page on which you experienced the problem. 
